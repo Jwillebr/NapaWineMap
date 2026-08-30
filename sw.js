@@ -12,10 +12,10 @@
  */
 'use strict';
 
-const VERSION = 'v1';
-const SHELL_CACHE = 'nwm-shell-' + VERSION;
-const DATA_CACHE = 'nwm-data-' + VERSION;
-const TILE_CACHE = 'nwm-tiles-' + VERSION;
+const VERSION = 'v2';
+const SHELL_CACHE = 'nwmap-shell-' + VERSION;
+const DATA_CACHE = 'nwmap-data-' + VERSION;
+const TILE_CACHE = 'nwmap-tiles-' + VERSION;
 const TILE_LIMIT = 800;                     // ~25–40 MB; oldest evicted beyond this
 
 const rel = (p) => new URL(p, self.registration.scope).toString();
@@ -62,7 +62,7 @@ self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys()
       .then((keys) => Promise.all(
-        keys.filter((k) => k.startsWith('nwm-') && ![SHELL_CACHE, DATA_CACHE, TILE_CACHE].includes(k))
+        keys.filter((k) => k.startsWith('nwmap-') && ![SHELL_CACHE, DATA_CACHE, TILE_CACHE].includes(k))
             .map((k) => caches.delete(k))
       ))
       .then(() => self.clients.claim())
