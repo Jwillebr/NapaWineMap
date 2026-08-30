@@ -1,5 +1,6 @@
-# Deploys the repo root to GitHub Pages on every push to main.
-# Serves the winery map app from the repository root.
+# Publishes the app by mirroring main to the gh-pages branch, which GitHub
+# Pages serves. This avoids needing the repo's Pages source set to "GitHub
+# Actions" — pushing gh-pages auto-enabled Pages with branch serving.
 name: Deploy to GitHub Pages
 
 on:
@@ -8,9 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 concurrency:
   group: pages
@@ -19,17 +18,9 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
         with:
-          # Creates the Pages site on first run so no settings toggle is needed.
-          enablement: true
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          fetch-depth: 0
+      - name: Mirror main to gh-pages
+        run: git push --force origin HEAD:gh-pages
