@@ -1,9 +1,9 @@
 {
   "source": "https://www.napawineproject.com/reviews/",
-  "scrapedAt": "2026-08-24T15:01:26.158Z",
-  "geocodedAt": "2026-08-24T15:07:03.204Z",
-  "count": 862,
-  "mapped": 839,
+  "scrapedAt": "2026-08-31T20:09:53.572Z",
+  "geocodedAt": "2026-08-31T20:16:34.583Z",
+  "count": 876,
+  "mapped": 848,
   "wineries": [
     {
       "slug": "cade-13th-vineyard",
@@ -20,6 +20,23 @@
       "aka": null,
       "lat": 38.567462867001,
       "lng": -122.457077915999,
+      "precision": "rooftop"
+    },
+    {
+      "slug": "17-poets-wine",
+      "name": "17 Poets Wine",
+      "url": "https://www.napawineproject.com/17-poets-wine/",
+      "address": "2144 Las Amigas Road, Napa, CA",
+      "city": "Napa",
+      "appellation": "Rutherford",
+      "phone": "(707) 225-5131",
+      "website": "https://www.17poetswine.com",
+      "visiting": null,
+      "cave": false,
+      "archived": false,
+      "aka": "Todd Newman",
+      "lat": 38.230349502853,
+      "lng": -122.327008530212,
       "precision": "rooftop"
     },
     {
@@ -52,8 +69,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.5062404,
-      "lng": -122.4793734,
+      "lat": 38.5068893,
+      "lng": -122.4873791,
       "precision": "street"
     },
     {
@@ -285,6 +302,24 @@
       "precision": "rooftop"
     },
     {
+      "slug": "addax-wines",
+      "name": "ADDAX Wines",
+      "url": "https://www.napawineproject.com/addax-wines/",
+      "address": "2100 Hoffman Lane, Napa, CA",
+      "city": "Napa",
+      "appellation": null,
+      "phone": "(707) 947-7934",
+      "website": "https://www.addaxwines.com",
+      "visiting": "By appointment",
+      "cave": false,
+      "archived": false,
+      "aka": "At  Elyse",
+      "lat": 38.383306,
+      "lng": -122.353401,
+      "precision": "rooftop",
+      "offset": true
+    },
+    {
       "slug": "aequitas-vineyards",
       "name": "Aequitas Vineyards",
       "url": "https://www.napawineproject.com/aequitas-vineyards/",
@@ -420,8 +455,8 @@
       "cave": false,
       "archived": false,
       "aka": "TR in downtown Napa",
-      "lat": 38.461851,
-      "lng": -122.409744,
+      "lat": 38.461793,
+      "lng": -122.40973,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -634,8 +669,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.463727,
-      "lng": -122.410467,
+      "lat": 38.463617,
+      "lng": -122.41041,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -1031,6 +1066,24 @@
       "precision": null
     },
     {
+      "slug": "avenue-8-wine",
+      "name": "Avenue 8 Wine",
+      "url": "https://www.napawineproject.com/avenue-8-wine/",
+      "address": "1115 Loma Vista Drive, Napa, CA",
+      "city": "Napa",
+      "appellation": "Coombsville",
+      "phone": null,
+      "website": "https://www.avenue8wine.com",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": "Chardonnay only, Dan",
+      "lat": 38.380313,
+      "lng": -122.290281,
+      "precision": "rooftop",
+      "offset": true
+    },
+    {
       "slug": "avinodos-wines",
       "name": "Avinodos Wines",
       "url": "https://www.napawineproject.com/avinodos-wines/",
@@ -1103,6 +1156,23 @@
       "offset": true
     },
     {
+      "slug": "b-true-wines",
+      "name": "B True Wines",
+      "url": "https://www.napawineproject.com/b-true-wines/",
+      "address": null,
+      "city": null,
+      "appellation": null,
+      "phone": null,
+      "website": "http://www.btruewines.com",
+      "visiting": null,
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": null,
+      "lng": null,
+      "precision": null
+    },
+    {
       "slug": "bacio-divino-cellars",
       "name": "Bacio Divino Cellars",
       "url": "https://www.napawineproject.com/bacio-divino-cellars/",
@@ -1154,6 +1224,25 @@
       "precision": "rooftop"
     },
     {
+      "slug": "baker-canyon-wine",
+      "name": "Baker Canyon Wine",
+      "url": "https://www.napawineproject.com/baker-canyon-wine/",
+      "address": null,
+      "city": null,
+      "appellation": "Rutherford",
+      "phone": null,
+      "website": "http://www.bakercanyon.com",
+      "visiting": null,
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.465306,
+      "lng": -122.411516,
+      "precision": "town",
+      "via": "centroid:rutherford",
+      "offset": true
+    },
+    {
       "slug": "baldacci-family-vineyards",
       "name": "Baldacci Family Vineyards",
       "url": "https://www.napawineproject.com/baldacci-family-vineyards/",
@@ -1202,8 +1291,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.465456,
-      "lng": -122.41164,
+      "lat": 38.466801,
+      "lng": -122.413009,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -1345,11 +1434,28 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.466971,
-      "lng": -122.41322,
+      "lat": 38.468046,
+      "lng": -122.414833,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
+    },
+    {
+      "slug": "becklyn-cellars",
+      "name": "Becklyn Cellars",
+      "url": "https://www.napawineproject.com/becklyn-cellars/",
+      "address": "1610 Spring Mountain Road, St. Helena, CA",
+      "city": "St. Helena",
+      "appellation": null,
+      "phone": "(707) 295-8699",
+      "website": "https://www.becklyncellars.com",
+      "visiting": "By appointment",
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.504655572603,
+      "lng": -122.475222234622,
+      "precision": "rooftop"
     },
     {
       "slug": "behrens-family-winery",
@@ -1433,8 +1539,8 @@
       "cave": false,
       "archived": false,
       "aka": "Sparkling: alexandriecellars.com",
-      "lat": 38.468215,
-      "lng": -122.415144,
+      "lat": 38.468996,
+      "lng": -122.416924,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -1674,8 +1780,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.3975199,
-      "lng": -122.359234,
+      "lat": 38.397113,
+      "lng": -122.3603326,
       "precision": "street"
     },
     {
@@ -2219,6 +2325,24 @@
       "offset": true
     },
     {
+      "slug": "calistoga-press",
+      "name": "Calistoga Press",
+      "url": "https://www.napawineproject.com/calistoga-press/",
+      "address": "Silverado Trail, Calistoga, CA",
+      "city": "Calistoga",
+      "appellation": "Calistoga",
+      "phone": "(562) 618-2942",
+      "website": "https://www.calistogapress.net",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.574378,
+      "lng": -122.544946,
+      "precision": "street",
+      "offset": true
+    },
+    {
       "slug": "calla-lily-estate-winery",
       "name": "Calla Lily Estate & Winery",
       "url": "https://www.napawineproject.com/calla-lily-estate-winery/",
@@ -2265,11 +2389,28 @@
       "cave": false,
       "archived": false,
       "aka": "Still producing?",
-      "lat": 38.469139,
-      "lng": -122.41734,
+      "lat": 38.469618,
+      "lng": -122.419206,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
+    },
+    {
+      "slug": "cana-ranch-wine",
+      "name": "Cana Ranch Wine",
+      "url": "https://www.napawineproject.com/cana-ranch-wine/",
+      "address": null,
+      "city": null,
+      "appellation": null,
+      "phone": null,
+      "website": "https://www.canaranch.org",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": "Houston based",
+      "lat": null,
+      "lng": null,
+      "precision": null
     },
     {
       "slug": "canard-vineyard",
@@ -2388,8 +2529,8 @@
       "cave": false,
       "archived": false,
       "aka": "About 50/50 Napa & Sonoma wines",
-      "lat": 38.246359,
-      "lng": -122.35632,
+      "lat": 38.250153,
+      "lng": -122.356683,
       "precision": "street",
       "offset": true
     },
@@ -2459,8 +2600,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.469708,
-      "lng": -122.419722,
+      "lat": 38.469889,
+      "lng": -122.421596,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3269,8 +3410,8 @@
       "cave": false,
       "archived": false,
       "aka": "Caspar Estate, TR/Restaurant SF",
-      "lat": 38.4699,
-      "lng": -122.4222,
+      "lat": 38.469798,
+      "lng": -122.424007,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3288,8 +3429,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.246359,
-      "lng": -122.356955,
+      "lat": 38.250153,
+      "lng": -122.357318,
       "precision": "street",
       "offset": true
     },
@@ -3358,8 +3499,8 @@
       "cave": false,
       "archived": false,
       "aka": "Vaso Cellars",
-      "lat": 38.469708,
-      "lng": -122.424678,
+      "lat": 38.46935,
+      "lng": -122.426354,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3447,8 +3588,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.469139,
-      "lng": -122.42706,
+      "lat": 38.46856,
+      "lng": -122.42855,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3587,8 +3728,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.468215,
-      "lng": -122.429256,
+      "lat": 38.467457,
+      "lng": -122.430517,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3745,8 +3886,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.251159,
-      "lng": -122.3566146,
+      "lat": 38.2463593,
+      "lng": -122.3566373,
       "precision": "street"
     },
     {
@@ -3868,8 +4009,8 @@
       "cave": false,
       "archived": true,
       "aka": null,
-      "lat": 38.466971,
-      "lng": -122.43118,
+      "lat": 38.466082,
+      "lng": -122.432183,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3904,8 +4045,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.465456,
-      "lng": -122.43276,
+      "lat": 38.464482,
+      "lng": -122.433488,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -3993,10 +4134,9 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.50584,
-      "lng": -122.43879,
-      "precision": "street",
-      "offset": true
+      "lat": 38.5119033,
+      "lng": -122.4560164,
+      "precision": "street"
     },
     {
       "slug": "elan-vineyards",
@@ -4134,9 +4274,10 @@
       "cave": false,
       "archived": false,
       "aka": "www.2100hoffmanlane.com",
-      "lat": 38.383305734608,
-      "lng": -122.353718646341,
-      "precision": "rooftop"
+      "lat": 38.383306,
+      "lng": -122.354036,
+      "precision": "rooftop",
+      "offset": true
     },
     {
       "slug": "emerson-brown-wines",
@@ -4958,8 +5099,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.463727,
-      "lng": -122.433933,
+      "lat": 38.462717,
+      "lng": -122.434386,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -5013,8 +5154,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.461851,
-      "lng": -122.434656,
+      "lat": 38.460851,
+      "lng": -122.434842,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -5428,8 +5569,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4599,
-      "lng": -122.4349,
+      "lat": 38.458949,
+      "lng": -122.434842,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -5757,8 +5898,8 @@
       "cave": false,
       "archived": false,
       "aka": "Estate: 500 Taplin Road, St. Helena",
-      "lat": 38.4924054,
-      "lng": -122.454287,
+      "lat": 38.49025,
+      "lng": -122.4517768,
       "precision": "street"
     },
     {
@@ -5884,9 +6025,9 @@
       "precision": "rooftop"
     },
     {
-      "slug": "hess-persson-estates",
+      "slug": "hess-collection",
       "name": "Hess Persson Estates",
-      "url": "https://www.napawineproject.com/hess-persson-estates/",
+      "url": "https://www.napawineproject.com/hess-collection/",
       "address": "4411 Redwood Road, Napa, CA",
       "city": "Napa",
       "appellation": "Howell Mountain",
@@ -5902,9 +6043,9 @@
       "offset": true
     },
     {
-      "slug": "hess-collection",
+      "slug": "hess-persson-estates",
       "name": "Hess Persson Estates",
-      "url": "https://www.napawineproject.com/hess-collection/",
+      "url": "https://www.napawineproject.com/hess-persson-estates/",
       "address": "4411 Redwood Road, Napa, CA",
       "city": "Napa",
       "appellation": "Howell Mountain",
@@ -6212,8 +6353,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.2558636,
-      "lng": -122.3463037,
+      "lat": 38.2559494,
+      "lng": -122.3470361,
       "precision": "street"
     },
     {
@@ -6320,6 +6461,23 @@
       "lng": -122.274397,
       "precision": "rooftop",
       "offset": true
+    },
+    {
+      "slug": "iii-rows-wine",
+      "name": "III Rows Wine",
+      "url": "https://www.napawineproject.com/iii-rows-wine/",
+      "address": "302 Longmeadow Drive, Baton Rouge, CA",
+      "city": "Baton Rouge",
+      "appellation": null,
+      "phone": "(256) 810-6863",
+      "website": "https://www.iiirows.com",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": "Kent Jarmon + Louisiana",
+      "lat": null,
+      "lng": null,
+      "precision": null
     },
     {
       "slug": "ilsley-vineyards",
@@ -6562,8 +6720,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.325811,
-      "lng": -122.273791,
+      "lat": 38.338228,
+      "lng": -122.26011,
       "precision": "street",
       "offset": true
     },
@@ -6580,8 +6738,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.325811,
-      "lng": -122.274426,
+      "lat": 38.338228,
+      "lng": -122.260745,
       "precision": "street",
       "offset": true
     },
@@ -7041,8 +7199,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.3872179,
-      "lng": -122.3636844,
+      "lat": 38.3873472,
+      "lng": -122.3639278,
       "precision": "street"
     },
     {
@@ -7996,6 +8154,23 @@
       "offset": true
     },
     {
+      "slug": "lunar-ridge-wine",
+      "name": "Lunar Ridge Wine",
+      "url": "https://www.napawineproject.com/lunar-ridge-wine/",
+      "address": "3087 Coombsville Road, Napa, CA",
+      "city": "Napa",
+      "appellation": "Coombsville",
+      "phone": "(707) 257-2210",
+      "website": "https://www.lunarridgewine.com",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.294597079124,
+      "lng": -122.242861133793,
+      "precision": "rooftop"
+    },
+    {
       "slug": "lunasa-wines",
       "name": "Lúnasa Wines",
       "url": "https://www.napawineproject.com/lunasa-wines/",
@@ -8062,8 +8237,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.457949,
-      "lng": -122.434656,
+      "lat": 38.457083,
+      "lng": -122.434386,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -8439,6 +8614,23 @@
       "offset": true
     },
     {
+      "slug": "matthew-dempsey-wines",
+      "name": "Matthew Dempsey Wines",
+      "url": "https://www.napawineproject.com/matthew-dempsey-wines/",
+      "address": "677 Hanna Drive Ste. B, American Canyon, CA",
+      "city": "American Canyon",
+      "appellation": null,
+      "phone": "(734) 751-8784",
+      "website": "https://www.matthewdempseywines.com",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.192330125501,
+      "lng": -122.267144040648,
+      "precision": "rooftop"
+    },
+    {
       "slug": "matthew-wallace-wines",
       "name": "Matthew Wallace Wines",
       "url": "https://www.napawineproject.com/matthew-wallace-wines/",
@@ -8787,8 +8979,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.456073,
-      "lng": -122.433933,
+      "lat": 38.455318,
+      "lng": -122.433488,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -9106,10 +9298,9 @@
       "cave": false,
       "archived": false,
       "aka": "Old Calistoga Bottling Works + Ezeta Wines",
-      "lat": 38.574378,
-      "lng": -122.544946,
-      "precision": "street",
-      "offset": true
+      "lat": 38.5849067,
+      "lng": -122.5699483,
+      "precision": "street"
     },
     {
       "slug": "myriad-cellars",
@@ -9365,18 +9556,16 @@
       "url": "https://www.napawineproject.com/new/",
       "address": null,
       "city": null,
-      "appellation": "St. Helena",
+      "appellation": null,
       "phone": null,
       "website": null,
       "visiting": null,
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.50069,
-      "lng": -122.481635,
-      "precision": "town",
-      "via": "centroid:st. helena",
-      "offset": true
+      "lat": null,
+      "lng": null,
+      "precision": null
     },
     {
       "slug": "newton-vineyard",
@@ -9460,10 +9649,9 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.440871,
-      "lng": -122.406104,
-      "precision": "street",
-      "offset": true
+      "lat": 38.4434798,
+      "lng": -122.4087703,
+      "precision": "street"
     },
     {
       "slug": "nid-tisse-wines",
@@ -9533,8 +9721,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.454344,
-      "lng": -122.43276,
+      "lat": 38.453718,
+      "lng": -122.432183,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -9588,8 +9776,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.452829,
-      "lng": -122.43118,
+      "lat": 38.452343,
+      "lng": -122.430517,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -9900,8 +10088,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.499541,
-      "lng": -122.48077,
+      "lat": 38.50069,
+      "lng": -122.481635,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10039,8 +10227,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.529787,
-      "lng": -122.503254,
+      "lat": 38.530004,
+      "lng": -122.503096,
       "precision": "rooftop",
       "offset": true
     },
@@ -10128,8 +10316,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.498492,
-      "lng": -122.479719,
+      "lat": 38.499541,
+      "lng": -122.48077,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10147,8 +10335,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.497563,
-      "lng": -122.478499,
+      "lat": 38.498492,
+      "lng": -122.479719,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10189,6 +10377,24 @@
       "precision": "rooftop"
     },
     {
+      "slug": "peirson-meyer-wine",
+      "name": "Peirson Meyer Wine",
+      "url": "https://www.napawineproject.com/peirson-meyer-wine/",
+      "address": "3125 St. Helena Highway, St. Helena, CA",
+      "city": "St. Helena",
+      "appellation": null,
+      "phone": "(707) 312-0633",
+      "website": "https://www.peirsonmeyer.com",
+      "visiting": "Not open to the public",
+      "cave": false,
+      "archived": false,
+      "aka": "Some Napa wines but mostly Sonoma",
+      "lat": 38.529571,
+      "lng": -122.503096,
+      "precision": "rooftop",
+      "offset": true
+    },
+    {
       "slug": "peju-napa-valley",
       "name": "PEJU Napa Valley",
       "url": "https://www.napawineproject.com/peju-napa-valley/",
@@ -10201,10 +10407,9 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.498779,
-      "lng": -122.461179,
-      "precision": "street",
-      "offset": true
+      "lat": 38.5027957,
+      "lng": -122.4662039,
+      "precision": "street"
     },
     {
       "slug": "pellet-estate",
@@ -10236,8 +10441,8 @@
       "cave": false,
       "archived": false,
       "aka": "Chicago",
-      "lat": 38.451585,
-      "lng": -122.429256,
+      "lat": 38.45124,
+      "lng": -122.42855,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -10569,8 +10774,8 @@
       "cave": false,
       "archived": false,
       "aka": "Stretch Drive label",
-      "lat": 38.496771,
-      "lng": -122.477134,
+      "lat": 38.497563,
+      "lng": -122.478499,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10605,8 +10810,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.496129,
-      "lng": -122.475646,
+      "lat": 38.496771,
+      "lng": -122.477134,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10695,8 +10900,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.495649,
-      "lng": -122.474063,
+      "lat": 38.496129,
+      "lng": -122.475646,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10853,8 +11058,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.450661,
-      "lng": -122.42706,
+      "lat": 38.45045,
+      "lng": -122.426354,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -10872,8 +11077,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.495339,
-      "lng": -122.472412,
+      "lat": 38.495649,
+      "lng": -122.474063,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -10961,8 +11166,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.450092,
-      "lng": -122.424678,
+      "lat": 38.450002,
+      "lng": -122.424007,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -11186,8 +11391,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4499,
-      "lng": -122.4222,
+      "lat": 38.449911,
+      "lng": -122.421596,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -11205,8 +11410,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.495206,
-      "lng": -122.470724,
+      "lat": 38.495339,
+      "lng": -122.472412,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -11499,10 +11704,9 @@
       "cave": true,
       "archived": false,
       "aka": "Several wineries in Napa & Sierra foothills",
-      "lat": 38.50584,
-      "lng": -122.439425,
-      "precision": "street",
-      "offset": true
+      "lat": 38.5058402,
+      "lng": -122.4391075,
+      "precision": "street"
     },
     {
       "slug": "romeo-vineyards-cellars",
@@ -11638,8 +11842,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.49525,
-      "lng": -122.469029,
+      "lat": 38.495206,
+      "lng": -122.470724,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -11744,8 +11948,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.495472,
-      "lng": -122.467356,
+      "lat": 38.49525,
+      "lng": -122.469029,
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
@@ -11803,6 +12007,25 @@
       "precision": "rooftop"
     },
     {
+      "slug": "scale-wine-group",
+      "name": "Scale Wine Group",
+      "url": "https://www.napawineproject.com/scale-wine-group/",
+      "address": null,
+      "city": null,
+      "appellation": "St. Helena",
+      "phone": null,
+      "website": "http://www.scalewine.com",
+      "visiting": null,
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": 38.495472,
+      "lng": -122.467356,
+      "precision": "town",
+      "via": "centroid:st. helena",
+      "offset": true
+    },
+    {
       "slug": "scalon-cellars",
       "name": "Scalon Cellars",
       "url": "https://www.napawineproject.com/scalon-cellars/",
@@ -11849,8 +12072,8 @@
       "cave": false,
       "archived": false,
       "aka": "Formerly McGah Cellars",
-      "lat": 38.450092,
-      "lng": -122.419722,
+      "lat": 38.450182,
+      "lng": -122.419206,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -12177,8 +12400,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.450661,
-      "lng": -122.41734,
+      "lat": 38.450804,
+      "lng": -122.416924,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -12594,8 +12817,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.3382275,
-      "lng": -122.2604275,
+      "lat": 38.3317331,
+      "lng": -122.2674292,
       "precision": "street"
     },
     {
@@ -12633,6 +12856,23 @@
       "lng": -122.446136,
       "precision": "rooftop",
       "offset": true
+    },
+    {
+      "slug": "sphaerics-wine",
+      "name": "Sphaerics Wine",
+      "url": "https://www.napawineproject.com/sphaerics-wine/",
+      "address": null,
+      "city": null,
+      "appellation": null,
+      "phone": null,
+      "website": "http://www.sphaericswine.com",
+      "visiting": null,
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": null,
+      "lng": null,
+      "precision": null
     },
     {
       "slug": "spire-collection",
@@ -12734,8 +12974,8 @@
       "cave": false,
       "archived": false,
       "aka": "Dollarhide Ranch Label",
-      "lat": 38.4529157,
-      "lng": -122.4172532,
+      "lat": 38.4529543,
+      "lng": -122.4172899,
       "precision": "street"
     },
     {
@@ -12905,10 +13145,9 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.499029,
-      "lng": -122.461496,
-      "precision": "street",
-      "offset": true
+      "lat": 38.4987786,
+      "lng": -122.4614962,
+      "precision": "street"
     },
     {
       "slug": "stormy-weather-wine",
@@ -13244,8 +13483,8 @@
       "cave": false,
       "archived": false,
       "aka": "Sign of the Dove, Michael Cooperman",
-      "lat": 38.451585,
-      "lng": -122.415144,
+      "lat": 38.451754,
+      "lng": -122.414833,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -13349,8 +13588,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.452829,
-      "lng": -122.41322,
+      "lat": 38.452999,
+      "lng": -122.413009,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -13599,8 +13838,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.454344,
-      "lng": -122.41164,
+      "lat": 38.454494,
+      "lng": -122.411516,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -13618,8 +13857,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.456073,
-      "lng": -122.410467,
+      "lat": 38.456183,
+      "lng": -122.41041,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -13951,8 +14190,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.457949,
-      "lng": -122.409744,
+      "lat": 38.458007,
+      "lng": -122.40973,
       "precision": "town",
       "via": "centroid:rutherford",
       "offset": true
@@ -14022,8 +14261,8 @@
       "cave": true,
       "archived": false,
       "aka": "www.tfewines.com, Many labels, Quattro Theory, Mason",
-      "lat": 38.498779,
-      "lng": -122.461814,
+      "lat": 38.50507,
+      "lng": -122.469667,
       "precision": "street",
       "offset": true
     },
@@ -14144,8 +14383,8 @@
       "cave": false,
       "archived": false,
       "aka": "Tours require appointment",
-      "lat": 38.498529,
-      "lng": -122.461496,
+      "lat": 38.50507,
+      "lng": -122.470302,
       "precision": "street",
       "offset": true
     },
@@ -14514,10 +14753,9 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.440871,
-      "lng": -122.406739,
-      "precision": "street",
-      "offset": true
+      "lat": 38.4238423,
+      "lng": -122.3914693,
+      "precision": "street"
     },
     {
       "slug": "vineyard-29",
@@ -14777,9 +15015,10 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.380312925834,
-      "lng": -122.290598864156,
-      "precision": "rooftop"
+      "lat": 38.380313,
+      "lng": -122.290916,
+      "precision": "rooftop",
+      "offset": true
     },
     {
       "slug": "whitehall-lane-winery",
