@@ -1,9 +1,9 @@
 {
   "source": "https://www.napawineproject.com/reviews/",
-  "scrapedAt": "2026-09-07T18:47:19.808Z",
-  "geocodedAt": "2026-09-07T18:47:24.601Z",
+  "scrapedAt": "2026-09-14T19:25:20.363Z",
+  "geocodedAt": "2026-09-14T19:31:34.402Z",
   "count": 874,
-  "mapped": 846,
+  "mapped": 845,
   "wineries": [
     {
       "slug": "cade-13th-vineyard",
@@ -1025,10 +1025,9 @@
       "cave": false,
       "archived": false,
       "aka": "Purchased 331 Silverado Trail Winery in 2025",
-      "lat": 38.574378,
-      "lng": -122.544311,
-      "precision": "street",
-      "offset": true
+      "lat": 38.5874889,
+      "lng": -122.5740325,
+      "precision": "street"
     },
     {
       "slug": "august-briggs-winery",
@@ -1384,6 +1383,23 @@
       "precision": "town",
       "via": "centroid:st. helena",
       "offset": true
+    },
+    {
+      "slug": "bazan-cellars",
+      "name": "Bazán Cellars",
+      "url": "https://www.napawineproject.com/bazan-cellars/",
+      "address": null,
+      "city": null,
+      "appellation": null,
+      "phone": null,
+      "website": "http://www.bazancellars.com",
+      "visiting": "By appointment",
+      "cave": false,
+      "archived": false,
+      "aka": null,
+      "lat": null,
+      "lng": null,
+      "precision": null
     },
     {
       "slug": "beau-vigne-napa-valley",
@@ -1780,8 +1796,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.397113,
-      "lng": -122.3603326,
+      "lat": 38.3975199,
+      "lng": -122.359234,
       "precision": "street"
     },
     {
@@ -2249,8 +2265,8 @@
       "cave": true,
       "archived": false,
       "aka": "Owned by Plumpjack",
-      "lat": 38.567652,
-      "lng": -122.4420764,
+      "lat": 38.5569085,
+      "lng": -122.4532095,
       "precision": "street"
     },
     {
@@ -2338,7 +2354,7 @@
       "archived": false,
       "aka": null,
       "lat": 38.574378,
-      "lng": -122.544946,
+      "lng": -122.544311,
       "precision": "street",
       "offset": true
     },
@@ -3886,8 +3902,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.2463593,
-      "lng": -122.3566373,
+      "lat": 38.2229453,
+      "lng": -122.356335,
       "precision": "street"
     },
     {
@@ -4115,9 +4131,10 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.5119033,
-      "lng": -122.4560164,
-      "precision": "street"
+      "lat": 38.50584,
+      "lng": -122.43879,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "elan-vineyards",
@@ -4429,8 +4446,8 @@
       "cave": false,
       "archived": false,
       "aka": "Debauchee",
-      "lat": 38.5036326,
-      "lng": -122.4675704,
+      "lat": 38.5026349,
+      "lng": -122.4659443,
       "precision": "street"
     },
     {
@@ -5862,8 +5879,8 @@
       "cave": false,
       "archived": false,
       "aka": "Estate: 500 Taplin Road, St. Helena",
-      "lat": 38.49025,
-      "lng": -122.4517768,
+      "lat": 38.4924054,
+      "lng": -122.454287,
       "precision": "street"
     },
     {
@@ -5989,9 +6006,9 @@
       "precision": "rooftop"
     },
     {
-      "slug": "hess-collection",
+      "slug": "hess-persson-estates",
       "name": "Hess Persson Estates",
-      "url": "https://www.napawineproject.com/hess-collection/",
+      "url": "https://www.napawineproject.com/hess-persson-estates/",
       "address": "4411 Redwood Road, Napa, CA",
       "city": "Napa",
       "appellation": "Howell Mountain",
@@ -6007,9 +6024,9 @@
       "offset": true
     },
     {
-      "slug": "hess-persson-estates",
+      "slug": "hess-collection",
       "name": "Hess Persson Estates",
-      "url": "https://www.napawineproject.com/hess-persson-estates/",
+      "url": "https://www.napawineproject.com/hess-collection/",
       "address": "4411 Redwood Road, Napa, CA",
       "city": "Napa",
       "appellation": "Howell Mountain",
@@ -6159,9 +6176,10 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4612059,
-      "lng": -122.4186102,
-      "precision": "street"
+      "lat": 38.464194,
+      "lng": -122.413045,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "honrama-cellars",
@@ -6317,8 +6335,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.2559494,
-      "lng": -122.3470361,
+      "lat": 38.2555284,
+      "lng": -122.3681169,
       "precision": "street"
     },
     {
@@ -6684,8 +6702,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.338228,
-      "lng": -122.26011,
+      "lat": 38.338867,
+      "lng": -122.259395,
       "precision": "street",
       "offset": true
     },
@@ -6702,8 +6720,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.338228,
-      "lng": -122.260745,
+      "lat": 38.338867,
+      "lng": -122.26003,
       "precision": "street",
       "offset": true
     },
@@ -7163,8 +7181,8 @@
       "cave": true,
       "archived": false,
       "aka": null,
-      "lat": 38.3873472,
-      "lng": -122.3639278,
+      "lat": 38.3872179,
+      "lng": -122.3636844,
       "precision": "street"
     },
     {
@@ -8398,23 +8416,6 @@
       "precision": "rooftop"
     },
     {
-      "slug": "mario-bazan-cellars",
-      "name": "Mario Bazán Cellars",
-      "url": "https://www.napawineproject.com/mario-bazan-cellars/",
-      "address": "1000 Main St, Napa, CA",
-      "city": "Napa",
-      "appellation": null,
-      "phone": "(707) 927-5564",
-      "website": "https://www.mariobazancellars.com",
-      "visiting": "By appointment",
-      "cave": false,
-      "archived": false,
-      "aka": null,
-      "lat": 38.299286568917,
-      "lng": -122.28542871424,
-      "precision": "rooftop"
-    },
-    {
       "slug": "mark-herold-wines",
       "name": "Mark Herold Wines",
       "url": "https://www.napawineproject.com/mark-herold-wines/",
@@ -9262,9 +9263,10 @@
       "cave": false,
       "archived": false,
       "aka": "Old Calistoga Bottling Works + Ezeta Wines",
-      "lat": 38.5849067,
-      "lng": -122.5699483,
-      "precision": "street"
+      "lat": 38.574378,
+      "lng": -122.544946,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "myriad-cellars",
@@ -10371,8 +10373,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.5027957,
-      "lng": -122.4662039,
+      "lat": 38.4983242,
+      "lng": -122.4609663,
       "precision": "street"
     },
     {
@@ -11668,9 +11670,10 @@
       "cave": true,
       "archived": false,
       "aka": "Several wineries in Napa & Sierra foothills",
-      "lat": 38.5058402,
-      "lng": -122.4391075,
-      "precision": "street"
+      "lat": 38.50584,
+      "lng": -122.439425,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "romeo-vineyards-cellars",
@@ -11719,9 +11722,10 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4641943,
-      "lng": -122.4133628,
-      "precision": "street"
+      "lat": 38.464194,
+      "lng": -122.41368,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "roy-estate",
@@ -12781,8 +12785,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.3317331,
-      "lng": -122.2674292,
+      "lat": 38.3372483,
+      "lng": -122.2615072,
       "precision": "street"
     },
     {
@@ -12938,8 +12942,8 @@
       "cave": false,
       "archived": false,
       "aka": "Dollarhide Ranch Label",
-      "lat": 38.4529543,
-      "lng": -122.4172899,
+      "lat": 38.4529157,
+      "lng": -122.4172532,
       "precision": "street"
     },
     {
@@ -13109,9 +13113,10 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4987786,
-      "lng": -122.4614962,
-      "precision": "street"
+      "lat": 38.496012,
+      "lng": -122.45799,
+      "precision": "street",
+      "offset": true
     },
     {
       "slug": "stormy-weather-wine",
@@ -14225,8 +14230,8 @@
       "cave": true,
       "archived": false,
       "aka": "www.tfewines.com, Many labels, Quattro Theory, Mason",
-      "lat": 38.50507,
-      "lng": -122.469667,
+      "lat": 38.496228,
+      "lng": -122.458466,
       "precision": "street",
       "offset": true
     },
@@ -14347,8 +14352,8 @@
       "cave": false,
       "archived": false,
       "aka": "Tours require appointment",
-      "lat": 38.50507,
-      "lng": -122.470302,
+      "lat": 38.495795,
+      "lng": -122.458466,
       "precision": "street",
       "offset": true
     },
@@ -14717,8 +14722,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.4238423,
-      "lng": -122.3914693,
+      "lat": 38.4382906,
+      "lng": -122.4040669,
       "precision": "street"
     },
     {
