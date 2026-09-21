@@ -1,7 +1,7 @@
 {
   "source": "https://www.napawineproject.com/reviews/",
-  "scrapedAt": "2026-09-14T19:25:20.363Z",
-  "geocodedAt": "2026-09-14T19:31:34.402Z",
+  "scrapedAt": "2026-09-21T19:32:08.485Z",
+  "geocodedAt": "2026-09-21T19:32:12.058Z",
   "count": 874,
   "mapped": 845,
   "wineries": [
@@ -2489,7 +2489,7 @@
       "city": null,
       "appellation": null,
       "phone": "(508) 951-0673",
-      "website": "http://www.titanwinecompany.com",
+      "website": "https://cardozafamilywines.com/",
       "visiting": null,
       "cave": false,
       "archived": false,
