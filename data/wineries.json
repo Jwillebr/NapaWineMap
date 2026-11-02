@@ -1,9 +1,9 @@
 {
   "source": "https://www.napawineproject.com/reviews/",
-  "scrapedAt": "2026-10-26T19:59:58.596Z",
-  "geocodedAt": "2026-10-26T20:00:09.068Z",
-  "count": 859,
-  "mapped": 829,
+  "scrapedAt": "2026-11-02T22:49:24.716Z",
+  "geocodedAt": "2026-11-02T22:49:27.814Z",
+  "count": 858,
+  "mapped": 828,
   "wineries": [
     {
       "slug": "cade-13th-vineyard",
@@ -3394,8 +3394,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.259159,
-      "lng": -122.273164,
+      "lat": 38.25918,
+      "lng": -122.273203,
       "precision": "rooftop",
       "offset": true
     },
@@ -7030,8 +7030,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.259207,
-      "lng": -122.273433,
+      "lat": 38.25918,
+      "lng": -122.273521,
       "precision": "rooftop",
       "offset": true
     },
@@ -9756,7 +9756,7 @@
       "appellation": "St. Helena",
       "phone": "(707) 963-3850",
       "website": "https://www.ovidvineyards.com",
-      "visiting": "Not open to the public",
+      "visiting": "By appointment",
       "cave": true,
       "archived": false,
       "aka": null,
@@ -10659,8 +10659,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.259072,
-      "lng": -122.273648,
+      "lat": 38.258964,
+      "lng": -122.27368,
       "precision": "rooftop",
       "offset": true
     },
@@ -12039,24 +12039,6 @@
       "lat": 38.417360229555,
       "lng": -122.336784177926,
       "precision": "rooftop"
-    },
-    {
-      "slug": "shanti-wines",
-      "name": "Shanti Wines",
-      "url": "https://www.napawineproject.com/shanti-wines/",
-      "address": "45 Enterprise Court Unit 1, Napa, CA",
-      "city": "Napa",
-      "appellation": null,
-      "phone": "(707) 492-3830",
-      "website": "https://www.shantiwines.com",
-      "visiting": "By appointment",
-      "cave": false,
-      "archived": false,
-      "aka": "Industrial Park + Livermore location",
-      "lat": 38.258855,
-      "lng": -122.273648,
-      "precision": "rooftop",
-      "offset": true
     },
     {
       "slug": "shed-creek-cellars",
@@ -13667,8 +13649,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.25872,
-      "lng": -122.273433,
+      "lat": 38.258747,
+      "lng": -122.273521,
       "precision": "rooftop",
       "offset": true
     },
@@ -14916,8 +14898,8 @@
       "cave": false,
       "archived": false,
       "aka": null,
-      "lat": 38.258768,
-      "lng": -122.273164,
+      "lat": 38.258747,
+      "lng": -122.273203,
       "precision": "rooftop",
       "offset": true
     },
